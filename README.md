@@ -22,7 +22,8 @@ Execute the program
    </head>
 	
    <body>
-      <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="violet">
+     
+     <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="violet">
          <tr>
             <th colspan="8">TIME TABLE</th>
          </tr>
